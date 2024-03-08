@@ -1,4 +1,4 @@
-# r2mle-workshop
+# r2mle-workshop (Pipeline with Airflow)
 
 # Airflow
 
